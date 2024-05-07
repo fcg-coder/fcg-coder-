@@ -1,5 +1,16 @@
 # Stanislav Ageychik Saint-Petersburg, Russia
 ### Email: stanislavageychik@yandex.ru GitHub: https://github.com/fcg-coder
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=fcg-coder&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=fcg-coder&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/fcg-coder/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcg-coder&layout=compact"/></a>
+</p>
+
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://t.me/fcg000"/>
+   </a>
+
 
 # OBJECTIVE
 A third-year student, seeking a backend development internship in C++
@@ -50,17 +61,3 @@ This project implements a library of virtual worlds. For development, an approac
 - English
 
 
-
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=fcg-coder_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=fcg-coder_icons=true&count_private=true"/></a>
-   <a href="https://github.com/fcg-coder/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcg-coder&layout=compact"/></a>
-</p>
-
-
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://t.me/fcg000"/>
-   </a>
