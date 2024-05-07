@@ -4,9 +4,9 @@
 
 <p align='center' style ="width: 100%">
    <a href="https://github-readme-stats.vercel.app/api?username=fcg-coder&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=fcg-coder&show_icons=true&count_private=true"/></a>
+       <img height=150 width=50% src="https://github-readme-stats.vercel.app/api?username=fcg-coder&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/fcg-coder/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcg-coder&layout=compact"/></a>
+       <img height=150 width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcg-coder&layout=compact"/></a>
 </p>
 
 # OBJECTIVE
