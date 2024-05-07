@@ -56,14 +56,11 @@ This project implements a library of virtual worlds. For development, an approac
    <a href="https://github-readme-stats.vercel.app/api?username=fcg-coder_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=fcg-coder_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   <a href="https://github.com/fcg-coder/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcg-coder&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
+
    <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
        <img src="https://t.me/fcg000"/>
    </a>
