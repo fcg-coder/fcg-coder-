@@ -1,6 +1,5 @@
 # Stanislav Ageychik Saint-Petersburg, Russia
-# Email: stanislavageychik@yandex.ru 
-# GitHub: https://github.com/fcg-coder
+### Email: stanislavageychik@yandex.ru GitHub: https://github.com/fcg-coder
 
 # OBJECTIVE
 A third-year student, seeking a backend development internship in C++
