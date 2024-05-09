@@ -17,11 +17,10 @@ A third-year student, seeking a backend development internship in C++
 # EDUCATION
 SUAI Application and Operation of Automated Systems for Special Purposes (2021 - 2026)
 
-
 # SKILLS
 
 ### Programming languages: 
-- C/C++/C#
+- C/C++
 - Python
 - HTML+CSS+JS
 
