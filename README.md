@@ -1,7 +1,7 @@
 # Stanislav Ageychik 
 ### Saint-Petersburg, Russia
 ### Email: stanislavageychik@yandex.ru 
-###Telergamm: https://t.me/fcg000
+### Telergam: https://t.me/fcg000
 
 <p align='center' style ="width: 100%">
    <a href="https://github-readme-stats.vercel.app/api?username=fcg-coder&show_icons=true&count_private=true">
