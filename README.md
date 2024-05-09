@@ -51,7 +51,8 @@ This project implements a library of virtual worlds. For development, an approac
 ### Technologies: 
 - Nginx
 - Docker
-- Python+Django - Unity
+- Python+Django
+- Unity
 
 
 #LANGUAGES
